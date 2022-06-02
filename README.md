@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=ddddddoii&fontSize=70)
 
-💚BOJ @imddoy💚
+💚BOJ @imddoy💚<br>
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imddoy)
   <img src="http://mazandi.herokuapp.com/api?handle=imddoy&theme=warm"/>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=footer)
