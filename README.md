@@ -1,6 +1,8 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=ddddddoii&fontSize=70&font=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=ddddddoii&fontSize=70)
 ...
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={imddoy})](https://solved.ac/{imddoy})
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=footer)
 <!--
 **imddoy/imddoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
