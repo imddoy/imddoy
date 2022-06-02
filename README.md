@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=ddddddoii&fontSize=70)
-...
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imddoy)](https://solved.ac/imddoy)
+
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imddoy)]
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=footer)
 <!--
