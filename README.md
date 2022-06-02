@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=#ffc0cb&height=200&section=header&text=ddddddoii&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=ddddddoii&fontSize=70)
 ...
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=footer)
 <!--
