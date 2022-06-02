@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=ddddddoii&fontSize=70)
-<div style="text-align:center;">
+<div style='align:center'>
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imddoy)
 </div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=footer)
