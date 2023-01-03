@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/> 
 </div>
 <h2>🛠🛠Tools🛠🛠</h2>
 <div>
@@ -23,5 +24,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imddoy&show_icons=true&theme=dracula)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imddoy&layout=compact)](https://github.com/imddoy/github-readme-stats)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=footer)
+
+<h2>👀👀Blog👀👀</h2>
+<a href="https://velog.io/@imddoy" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=footer">
 </div>
