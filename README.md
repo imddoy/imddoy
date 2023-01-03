@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=ddddddoii&fontSize=70)
-
+<div align=center>
+![ddddddoii's GitHub stats](https://github-readme-stats.vercel.app/api?username=imddoy&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 💚BOJ @imddoy💚<br>
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imddoy)
   <img src="http://mazandi.herokuapp.com/api?handle=imddoy&theme=warm"/>
