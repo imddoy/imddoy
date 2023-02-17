@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
 </div>
 <h2>📈📈Status📈📈</h2>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imddoy">
+<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imddoy"> -->
 <!--  <img src="http://mazandi.herokuapp.com/api?handle=imddoy&theme=warm"/>-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imddoy&show_icons=true&theme=dracula)
