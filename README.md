@@ -22,8 +22,8 @@
 <!--  <img src="http://mazandi.herokuapp.com/api?handle=imddoy&theme=warm"/>-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imddoy&show_icons=true&theme=dracula)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imddoy&layout=compact)](https://github.com/imddoy/github-readme-stats)
+<!--<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imddoy&layout=compact)](https://github.com/imddoy/github-readme-stats)-->
 
 <!--<h2>👀👀Blog👀👀</h2>-->
 <!-- <a href="https://velog.io/@imddoy" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a> -->
