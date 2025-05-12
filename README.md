@@ -5,5 +5,3 @@
 <br></br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imddoy&show_icons=true&theme=dracula)
-<!--<br>-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imddoy&layout=compact)](https://github.com/imddoy/github-readme-stats)
